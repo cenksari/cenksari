@@ -8,4 +8,4 @@ I enjoy imagining and developing new solutions for event technologies especially
 [Twitter](https://twitter.com/cenksari) |
 [Instagram](https://instagram.com/cenksari) |
 [Facebook](https://facebook.com/cenksari) |
-[Personal website](http://www.cenksari.com)
+[Personal website](https://www.cenksari.com)
