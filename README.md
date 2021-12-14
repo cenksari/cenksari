@@ -9,3 +9,7 @@ I enjoy imagining and developing new solutions for event technologies especially
 [Instagram](https://instagram.com/cenksari) |
 [Facebook](https://facebook.com/cenksari) |
 [Personal website](https://www.cenksari.com)
+
+##
+
+[![Cenk's GitHub stats](https://github-readme-stats.vercel.app/api?username=cenksari&hide=issues&count_private=true&show_icons=true&theme=dark)](https://cenksari.com)
