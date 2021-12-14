@@ -12,4 +12,4 @@ I enjoy imagining and developing new solutions for event technologies especially
 
 ##
 
-[![Cenk's GitHub stats](https://github-readme-stats.vercel.app/api?username=cenksari&hide=issues&count_private=true&show_icons=true&theme=dark)](https://cenksari.com)
+[![Cenk's GitHub stats](https://github-readme-stats.vercel.app/api?username=cenksari&hide=issues&count_private=true&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true)](https://cenksari.com)
