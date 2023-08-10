@@ -11,7 +11,3 @@ You can reach out to me via email: cenk@cenksari.com
 [Instagram](https://instagram.com/cenksari) |
 [Facebook](https://facebook.com/cenksari) |
 [Personal website](https://www.cenksari.com)
-
-##
-
-[![Cenk's GitHub stats](https://github-readme-stats.vercel.app/api?username=cenksari&hide=issues&count_private=true&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true)](https://cenksari.com)
