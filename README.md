@@ -1,6 +1,8 @@
 ### Hi, I'am Cenk 👋
 
-I enjoy imagining and developing new solutions for event technologies especially in ticketing technologies, accreditation, access control systems, audio tour guides, museum technologies, user generated content platforms, podcast platforms, cloud native projects, e-commerce systems and cashless payment systems. I am an expert on cloud technologies, web, mobile and desktop software development. Strong engineering professional skilled in Microsoft Azure, .Net Core, C#, React, React Native, SQL, NoSQL, CI/CD, Git, Micro Services, API Design. I am passionate about following new trends and technologies.
+Seasoned Innovator in Event Technology Solutions with Over 20 Years of Experience. Specializing in Cutting-edge Technologies such as Ticketing Technologies, Accreditation Systems, Access Control, Audio Tour Guides, Museum Technologies, User-Generated Content Platforms, Podcast Platforms, Cloud-Native Projects, E-commerce Systems, and Cashless Payment Solutions. Dedicated to Staying Ahead of Emerging Trends and Technologies.
+
+Proficient in Cloud Technologies, Web, and Mobile Development with a Specialization in Azure, AWS, DevOps, C#, dotnet Core, .NET, Microservices, WebApi, Restful services, Azure Functions, Relational SQL Databases, MS-SQL, T-SQL, Document-Based Databases, Cosmos DB, Mongo DB, Redis, Rabbit MQ, JavaScript, React, React Native, ESLint, Prettier, Git, TFS, CI/CD, Reactive Programming, Software Design and Architecture, Software Management. Proficient in SOLID principles and design patterns, obsessive about code quality/standards and software documentation, possessing a deep sensitivity to pixel-perfect design. Demonstrated expertise in crafting scalable and innovative solutions to meet complex business requirements.
 
 You can reach out to me via email: cenk@cenksari.com
 
