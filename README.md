@@ -16,7 +16,7 @@ My expertise spans the entire technology stack - from microservices architecture
 
 Core Technologies:
 
-Azure, AWS, DevOps, Docker, C#, Dotnet Core, .NET, Microservices, WebApi, Restful services, Azure Functions, MS-SQL, T-SQL, LINQ, Document-Based Databases, Cosmos DB, Mongo DB, Redis, Rabbit MQ, JavaScript, TypeScript, React, NextJS, React Native, Git, TFS, CI/CD
+Azure, AWS, DevOps, Docker, C#, Dotnet Core, .NET, Microservices, WebApi, Restful services, Azure Functions, MS-SQL, PostgreSql, T-SQL, LINQ, Document-Based Databases, Cosmos DB, Mongo DB, Redis, Elastic Search, Rabbit MQ, Azure Service Bus, JavaScript, TypeScript, React, NextJS, React Native, Git, TFS, CI/CD
 
 Ready to architect your next breakthrough solution? Let's connect and discuss how I can drive your digital transformation initiatives.
 
