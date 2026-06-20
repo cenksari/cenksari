@@ -27,5 +27,4 @@ You can reach out to me via email: cenk@cenksari.com
 [Linkedin](https://linkedin.com/in/cenksari) |
 [Twitter](https://twitter.com/cenksari) |
 [Instagram](https://instagram.com/cenksari) |
-[Facebook](https://facebook.com/cenksari) |
 [Personal website](https://www.cenksari.com)
